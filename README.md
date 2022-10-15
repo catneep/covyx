@@ -1,6 +1,4 @@
-# covyx
-
-Lung CT image analysis with computer vision.
+![Logo](assets/logo.png)
 
 ## Introduction
 
